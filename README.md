@@ -1,5 +1,5 @@
 # COSEnu on a laptop
-(by Ian Padilla-Gay and collaborators)
+(by Ian Padilla-Gay (ianpaga@berkeley.edu) and collaborators)
 
 COSEnu is a numerical code for studying collective neutrino flavor evolution
 in dense astrophysical environments, such as core-collapse supernovae and
