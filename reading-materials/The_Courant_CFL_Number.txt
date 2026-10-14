@@ -1,0 +1,2 @@
+Useful YouTube video to understand the CFL coefficient used in our COSENU code:
+https://www.youtube.com/watch?v=WBWY46ynRk0

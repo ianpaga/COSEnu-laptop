@@ -1,0 +1,7 @@
+build/
+runs/
+__pycache__/
+.DS_Store
+supernova_data/
+soumya_figures/
+docs/
